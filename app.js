@@ -67,7 +67,7 @@ orders.map((pizza => {
                     <img src="${pizza.kep} alt="${pizza.pizza}" />
                 </div>
                 
-                <h3>${pizza.pizza}<h3>
+                <h3>${pizza.pizza}</h3>
                 <hr>
                 <h4>Ár: ${pizza.ar} Ft</h4>
                 <p>Extra: ${pizza.extra}</p>
